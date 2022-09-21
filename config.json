@@ -1,12 +1,7 @@
 {
-  "name": "Videos example",
-  "description": "Sample videos with labels",
+  "name": "Demo video pairs",
+  "description": "Video pairs for multicamera labeling",
   "type": "project",
-  "categories": [
-    "import",
-    "videos",
-    "project"
-  ],
-  "icon": "https://img.icons8.com/color/96/000000/movies-folder.png",
-  "icon_cover": true
+  "categories": ["import", "videos", "project"],
+  "icon": "https://user-images.githubusercontent.com/12828725/191513521-3242c722-b3cf-47bc-855b-1911480cfee9.png"
 }
