@@ -1,6 +1,6 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
+<img src="media/eco.png" width="250" /> <br>
 
 
 # Demo video pairs 
